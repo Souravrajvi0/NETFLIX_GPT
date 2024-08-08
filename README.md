@@ -107,9 +107,9 @@ firebase deploy
 
 ## :handshake: Contact
 
-Sourav Rajvi-> souravrajvi@gmail.com
-
+Sourav Rajvi- souravrajvi@gmail.com
 Project Link: [https://github.com/Souravrajvi0/NETFLIX_GPT](https://github.com/Souravrajvi0/NETFLIX_GPT)
+
+
 =======
-# NETFLIX_GPT
->>>>>>> 9b8570cdf588cb5f7fe9684b965267c4607e1d0f
+
