@@ -101,13 +101,9 @@ firebase deploy
 
 
 
-Contributions are always welcome!
 
-see `contributing.md` for ways to get started
 
-### :scroll: Code of Conduct
 
-Please read the [Code of Conduct]()
 
 ## :handshake: Contact
 
